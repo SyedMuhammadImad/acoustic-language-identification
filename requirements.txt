@@ -1,0 +1,6 @@
+numpy==2.5.3
+scikit-learn==1.9.1
+librosa==1.0.0
+soundfile==0.14.0
+pytest==9.1.1
+torch==2.14.1

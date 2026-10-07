@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-07",
+  "project": "acoustic-language-identification",
+  "completion_scope": "academic project or finished document; not a production certification",
+  "checks": [
+    {
+      "name": "7 neural/common tests",
+      "passed": true
+    },
+    {
+      "name": "Fresh training and evaluation on 268 distinct WAV recordings; each test speaker excluded from training",
+      "passed": true
+    },
+    {
+      "name": "Finite held-out metrics, pooled confusion totals and every notebook code cell checked",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Weak small-data transfer; not a deployed language detector. Raw audio, features and model binaries remain local.",
+    "Fresh neural experiment uses three classes; original four-class/873-recording run is not reproduced."
+  ]
+}
