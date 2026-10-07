@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "title": "Acoustic language identification with neural networks",
   "completion_gate_passed": true,
   "files": [
@@ -10,13 +10,13 @@
     },
     {
       "path": "audio.py",
-      "sha256": "b51efb5b33318562a65ff371eb146944cebe06663385a6f2290d7037c4a72c08",
-      "bytes": 11100
+      "sha256": "5b6696b46122439e1d4b263763a8826ea7401ae3a8864d470463e9897ebb38ec",
+      "bytes": 11274
     },
     {
       "path": "Deep_Learning_Project.ipynb",
-      "sha256": "a0c2e5c9719cff6a3d05cf319906c607f39a3b716aa54ea720f6cd6b3014b36f",
-      "bytes": 2191
+      "sha256": "f3e738d68928887ae185e2df852b931c166e44d4b390563c2db1f3d61f9625e6",
+      "bytes": 2188
     },
     {
       "path": "experiment.py",
@@ -35,8 +35,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "668f059ce50cf4b70f801a5753f87db76248fdcda65734dd58112af84f354e15",
-      "bytes": 3801
+      "sha256": "8914b2ba9c1a3bc378efe0e73d40a6f250f3c604b8aa1cfa76395d9d1ce33310",
+      "bytes": 3796
     },
     {
       "path": "requirements.txt",
@@ -50,8 +50,8 @@
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "ea1d5b3cfd88c5843cd11e4ff74d06fb4f46c589b629a09fe3c547ddc5b61ae0",
-      "bytes": 825
+      "sha256": "3710a5beebf43e0777d8a1ea3bc78d6cc4f1d772dd70a46100c19fea9ce5954d",
+      "bytes": 829
     }
   ]
 }

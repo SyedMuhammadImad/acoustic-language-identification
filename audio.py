@@ -1,4 +1,4 @@
-"""Portable coursework feature extraction and speaker-held-out experiments."""
+"""Portable project feature extraction and speaker-held-out experiments."""
 import argparse,csv,hashlib,json,re
 from pathlib import Path
 import numpy as np

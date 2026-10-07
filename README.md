@@ -1,6 +1,6 @@
 # Acoustic language identification: MLP, LSTM and GRU
 
-Completed academic experiment with fresh local-recording evaluation. This is a small-data model comparison, not a dependable general-purpose language detector. Code was repaired in a publication copy; original coursework and local recordings are retained. Team recordings and shared coursework are not claimed as solely authored work.
+Completed experimental experiment with fresh local-recording evaluation. This is a small-data model comparison, not a dependable general-purpose language detector. Code was repaired in a publication copy; original project and local recordings are retained. Team recordings and shared project are not claimed as solely authored work.
 
 ## Run
 
@@ -28,4 +28,4 @@ These results show weak transfer across speakers. Three voices, recording condit
 
 ## Notebook and verification
 
-The notebook follows the same setup → experiment → results pattern as the repaired coursework repositories. It reads the included numeric metrics and runs an implementation smoke check; retraining uses the command above with your local recordings. Outputs are stripped. `VERIFICATION.json` records executed tests and the full fresh training run. Tests cover gradient correctness, noncontiguous labels, finite probabilities, invalid inputs, speaker separation, real feature extraction and single-file preprocessing; neural checks also verify invariance to padded frames.
+The notebook follows the same setup → experiment → results pattern as the repaired project repositories. It reads the included numeric metrics and runs an implementation smoke check; retraining uses the command above with your local recordings. Outputs are stripped. `VERIFICATION.json` records executed tests and the full fresh training run. Tests cover gradient correctness, noncontiguous labels, finite probabilities, invalid inputs, speaker separation, real feature extraction and single-file preprocessing; neural checks also verify invariance to padded frames.
